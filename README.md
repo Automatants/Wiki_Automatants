@@ -37,4 +37,5 @@ Contient les pages de description des techs
 
 ##### Dossier Automarticles
 
-Contient les pages récemments écrites sur des sujets proche de l'Etat de l'art, cela peut être une présentation de papier (Provenant de Autom1jout1papier), une présentation d'une actualité en rapport avec l'IA
+Contient les pages récemments écrites sur des sujets proche de l'Etat de l'art, cela peut être une présentation de papier (Provenant de Autom1jout1papier), une présentation d'une actualité en rapport avec l'IA.
+Ces pages ont pour vocation d'être reprises et détaillées avant de rentrer dans le wiki quand la tech est maîtrisée. 
