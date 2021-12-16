@@ -3,9 +3,7 @@ author: 'Valentin Goldité'
 date: '2021-06-01'
 description: 'This tutorial provide a step-by-step pipeline to install an effective Python set-up optimized for machine learning for Ubuntu LTS, containing libraries to use efficiently the last versions of Tensorflow and Pytorch'
 ---
-
 # Full ML Python set-up installation for Ubuntu (20.04, 18.04 or 16.04)
-
 Author : Valentin Goldité ([GitHub:valentingol](https://github.com/))
 
 Date : 06/2021
