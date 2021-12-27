@@ -9,7 +9,7 @@ Pour ce faire, allez dans l'application obsidian et ouvrez le coffre-fort à par
 
 Si vous voulez contribuer à ce wiki, merci de ping notre cher VP Geek [julien cardinal](mailto:julien.cardinal@student-cs.fr) ou un autre membre du bureau d'Automatants.
 
-Quand vous créez une page, merci de regarder si une page existante sur le même sujet n'existe pas déjà. Tout le wiki est en français.
+Quand vous créez une page, merci de regarder si une page existante sur le même sujet n'existe pas déjà. Tout le wiki est en anglais.
 
 
 ##### Détails d'une page
