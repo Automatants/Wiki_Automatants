@@ -1,0 +1,3 @@
+[[WeightDecay]]
+[[Dropout]]
+[[LRN]]
