@@ -8,4 +8,4 @@ The other advantage of smaller convolution is the number of parameters :
 For a simple 7 kernel convolution from C channels to C channels we have  : $7^2C^2$
 For 3 simple 3 kernel convolution from C channels to C channels we have : $3(3^2C^2)$.
 
-VGG also utilise 
+VGG also uses $(1 \times 1)$ convolutions as in [[Network in Network]].
