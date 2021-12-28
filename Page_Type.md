@@ -1,23 +1,36 @@
 ---
-author: 'Prénom Nom'
+author: 'Name Surname'
 date: 'YYYY-MM-DD (last update)'
-description: 'Courte description de la page de wiki (pas plus de 3 lignes)'
+description: 'Short description of the page (no more than 3 lines)'
 ---
-# Titre
+# Title
 
-### Partie calculs
+### Part with maths
 
-Merci de favoriser l'écriture des calculs en $LATEX$ plutôt que les screenshots et mettre les equations comme celle-ci :
+Please write every equations in $LATEX$ instead of using screenshots for equations like this one :
 $$z = w_1x_1+w_2x_2+w_3x_3+b \tag{1} $$
 
-### Partie Code
+### Part with code
 
-Merci d'utiliser cette présentation de code en précisant le langage utilisé. Tout comme les calculs, il ne faut pas mettre trop de code pour ne pas surcharger la page
+Please use this code presentation by specifying the used programming language. Put only the code necessary to understand a notion to avoid overloading the page.
 ```python
 import tensorflow as tf
 model = tf.keras.models.Sequential()
 ```
 
-### Référence 
+### References
 
-Merci de faire le maximum de références aux pages déjà existantes et aux sites webs utilisés.
+Please, put a maximum amount of references in your page, that guided your understanding of the notion. If there are too many, simply put them on the bottom of the page as footnotes.
+Ex : 
+
+Here's a simple footnote,[^1] and here's a longer one.[^bignote]
+
+[^1]: meaningful!
+
+[^bignote]: Here's one with multiple paragraphs and code.
+
+    Indent paragraphs to include them in the footnote.
+
+    `{ my code }`
+
+    Add as many paragraphs as you like.

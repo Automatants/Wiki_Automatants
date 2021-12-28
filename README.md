@@ -1,41 +1,40 @@
 # Wiki Automatants
 
-Bienvenu sur le wiki Automatants !
+Welcome to Automatants' wiki !
 
-Pour une meilleur utilisation, ce wiki se lance en local sous [obsidian](https://obsidian.md)
-Pour ce faire, allez dans l'application obsidian et ouvrez le coffre-fort à partir du dossier cloné
+For a better usage, this wiki is powered by [obsidian](https://obsidian.md)
+To use it, launch the app obsidian on your computer and open a new vault at the cloned repository's root.
 
-## Créer une page
+## Create a New page
 
-Si vous voulez contribuer à ce wiki, merci de ping notre cher VP Geek [julien cardinal](mailto:julien.cardinal@student-cs.fr) ou un autre membre du bureau d'Automatants.
+If you want to contribute to the project, contact the latest web developer [julien cardinal](mailto:julien.cardinal@student-cs.fr), or an other member of the Automatants.
 
-Quand vous créez une page, merci de regarder si une page existante sur le même sujet n'existe pas déjà. Tout le wiki est en français.
+Whenever you create a new page in the wiki, always check if there is already an existing page on the topic. The whole wiki is in English.
 
+##### Content of a page
 
-##### Détails d'une page
+A Wiki page needs to be clear, well-structured and needs to have many examples. It should contain the links to the used notions.
+Please present your page the same way as the following [standard page](Page_Type)
 
-Une Page de ce wiki se doit d'être claire et instructive. Elle se doit de comporter les liens vers les notions qu'elle utilise.
-Merci de respecter l'en-tête et de le présenter comme celui de la [page type](Page_Type)
+##### Used Resources
 
-##### Ressource utilisées
+All used resources in the wiki page are limited to images and stored in the `Resources` folder. Please only use images when it is necessary and rather choose small images.
 
-Les ressources utilisées dans la documentation devront se limiter à des images. En privilégiant des images de taille réduite et en rajoutant un maximum de liens vers les pages citées et les ressources citées
+## The directories
 
-## Les dossiers
+##### The Tutos Folder
 
-##### Dossier Tuto
+Contains the tutorials for the installation and the good use of some techs.
 
-Contient les tutos installations, bonne utilisation de certaines techs ... en .md
+##### The Resources Folder
 
-##### Dossier Ressources
+Contains the used images from all the pages, please put a clear title for every image, corresponding to the explained notion.
 
-Contient les images utilisées dans les différentes pages, merci de mettre un titre claire pour chaque image
+##### The wiki pages Folder
 
-##### Dossier Pages Wiki
+The main directory that contains every pages describing AI techs as well as concept and tools used for AI.
 
-Contient les pages de description des techs
+##### The Automarticles Folder
 
-##### Dossier Automarticles
-
-Contient les pages récemments écrites sur des sujets proche de l'Etat de l'art, cela peut être une présentation de papier (Provenant de Autom1jout1papier), une présentation d'une actualité en rapport avec l'IA.
-Ces pages ont pour vocation d'être reprises et détaillées avant de rentrer dans le wiki quand la tech est maîtrisée. 
+Contains the latest pages about the state of the art, it can be a paper presentation (from Autom1jour1papier) or a presentation about some hot topic in AI.
+These pages are made to be reused and completed in the future, before being introduced to the wiki Folder once the tech is well-known.
